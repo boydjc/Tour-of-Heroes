@@ -27,7 +27,7 @@ li {
 	border-left: 1px solid gray;
 	border-right: 1px solid gray;
 	display: inline-block;
-	witdh: 100%;
+	width: 100%;
 	max-width: 600px;
 	padding: .5rem;
 	box-sizing: border-box;
